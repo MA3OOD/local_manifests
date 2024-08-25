@@ -4,7 +4,7 @@
 		fetch="https://github.com/eurekadevelopment"
 		revision="android-14"/>
 	<remote name="masood"
-		fetch="https://github.com/Masood-J"/>
+		fetch="https://github.com/MA3OOD"/>
 	<remote  name="Gtajisan"
                  fetch="https://github.com/Gtajisan"
                  revision="a14/master" />
@@ -20,7 +20,7 @@
 	<remote name="cr" fetch="https://github.com/crdroidandroid"/>
 
         <!-- Eureka -->
-        <project path="device/samsung" name="android_device_samsung_exynos7885" remote="masood" revision="SigmaDroid-14"/>
+        <project path="device/samsung" name="android_device_samsung_exynos7885" remote="masood" revision="android-14"/>
         <project path="kernel/samsung/exynos7885" name="Eureka-Kernel-Exynos7885-Q-R-S" remote="eureka" revision="R15_rom" />
         <project path="vendor/samsung" name="android_vendor_samsung_exynos7885" remote="eureka"/>
 
