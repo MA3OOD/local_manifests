@@ -5,7 +5,7 @@
 		fetch="https://github.com/MA3OOD"/>
 	
         <!-- Eureka -->
-        <project path="device/samsung" name="android_device_samsung_exynos7885" remote="masood" revision="sigma_test"/>
+        <project path="device/samsung" name="android_device_samsung_exynos7885" remote="masood" revision="SigmaDroid-14"/>
        
      
        
