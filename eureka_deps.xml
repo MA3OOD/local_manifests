@@ -3,10 +3,14 @@
        
 	<remote name="masood"
 		fetch="https://github.com/MA3OOD"/>
+	<remote  name="Koushikdey2003"
+                 fetch="https://github.com/Koushikdey2003"
+                 revision="v4a" />
 	
         <!-- Eureka -->
         <project path="device/samsung" name="android_device_samsung_exynos7885" remote="masood" revision="SigmaDroid-14"/>
-       
-     
-       
+        
+	
+        <!-- v4x -->
+	<project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="Koushikdey2003" />
 </manifest>
