@@ -8,7 +8,7 @@
                  revision="v4a" />
 	
         <!-- Eureka -->
-        <project path="device/samsung" name="android_device_samsung_exynos7885" remote="masood" revision="SigmaDroid-14"/>
+        <project path="device/samsung" name="android_device_samsung_exynos7885" remote="masood" revision="DerpFest-14"/>
         
 	
         <!-- v4x -->
