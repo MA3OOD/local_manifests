@@ -11,7 +11,6 @@
         <remote name="royna"
                 fetch="https://github.com/Roynas-Android-Playground"
 		revision="lineage-21"/>
-	<remote name="cr" fetch="https://github.com/crdroidandroid"/>
 
         <!-- Eureka -->
         <project path="device/samsung" name="android_device_samsung_exynos7885" remote="masood" revision="DerpFest-14"/>
@@ -45,8 +44,5 @@
                  name="android_hardware_samsung_slsi-linaro_config" remote="eureka-slsi-linaro" />
         <project path="hardware/samsung_slsi-linaro/openmax"
                  name="android_hardware_samsung_slsi-linaro_openmax" remote="eureka-slsi-linaro" />
-
-	 <!-- cr sepolicy -->
-        <project path="device/aosp/sepolicy" 
-		 name="android_device_crdroid_sepolicy" remote="cr" revision="14.0"/>
+      
 	</manifest>
